@@ -1,0 +1,41 @@
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\App Perpus.exe
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\App Perpus.deps.json
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\App Perpus.runtimeconfig.json
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\App Perpus.runtimeconfig.dev.json
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\App Perpus.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\ref\App Perpus.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\App Perpus.pdb
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App Perpus.csprojAssemblyReference.cache
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App_Perpus.Form1.resources
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App_Perpus.Properties.Resources.resources
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App Perpus.csproj.GenerateResource.cache
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App Perpus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App Perpus.AssemblyInfoInputs.cache
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App Perpus.AssemblyInfo.cs
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App Perpus.csproj.CoreCompileInputs.cache
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App Perpus.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\ref\App Perpus.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App Perpus.pdb
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App Perpus.genruntimeconfig.cache
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App Perpus.csproj.CopyComplete
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App_Perpus.MainMenu.resources
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App_Perpus.penulis.resources
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App_Perpus.penerbit.resources
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App_Perpus.buku.resources
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App_Perpus.member.resources
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App_Perpus.pinjambuku.resources
+C:\Users\Hafidz\source\repos\App Perpus\App Perpus\obj\Debug\net5.0-windows\App_Perpus.kembalikanbuku.resources
